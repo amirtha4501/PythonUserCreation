@@ -1,0 +1,28 @@
+{
+    "members": [
+        {
+            "fname": "ammu",
+            "lname": "kutty",
+            "phone": "9095999111",
+            "mail": "ammu@gmail.com",
+            "password": "ammuma",
+            "user_id": 1
+        },
+        {
+            "fname": "anu",
+            "lname": "shalini",
+            "phone": "8085999111",
+            "mail": "anu@gmail.com",
+            "password": "anuma",
+            "user_id": 2
+        },
+        {
+            "fname": "kalki",
+            "lname": "nethaji",
+            "phone": "9629199923",
+            "mail": "kalki@gmail.com",
+            "password": "kalkima",
+            "user_id": 3
+        }
+    ]
+}
